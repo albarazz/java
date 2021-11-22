@@ -15,7 +15,7 @@ public class CorsoJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Corso Java Alessandro Barazzuol");
+       System.out.println("Corso Java Alessandro Barazzuol v1");
     }
     
 }
