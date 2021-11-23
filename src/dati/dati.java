@@ -50,6 +50,16 @@ public class dati {
              System.out.println("Diversi");
          
          
+         Character ch=new Character('A');
+         
+         System.out.println(ch.charValue());
+         
+         
+         
+         String s=new String("123.5");
+         
+        
+         
      }
     
 }
